@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: CLOTHING_RETAIL/SALEOR_PRIOR_DOCS
+# records: 5
+# head: dc7cf21cb85c3a9dae325aec9dbbdb87f3b28bba8f4e50b49af5071a10057f8d
+{"digest": "ad3d447218a97c872443bc3ed8fc2c73cd54d4dcce1003bfecf3bcb8c174aabc", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "85442e777b4dd4cac329decacc8a03f7c9178195ae0536195f4c42eef6d358f7", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:52:47Z"}
+{"digest": "8ec126fb3939a93204331074546329da40442a7d262fbdebf2edc4c39f15ef76", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "8c07b1c7f2de94946a6cfe00c9ac8cf6359a78a5b4ef6024be6b5c6ff1555c12", "prev": "ad3d447218a97c872443bc3ed8fc2c73cd54d4dcce1003bfecf3bcb8c174aabc", "seq": 1, "ts": "2026-10-09T05:52:47Z"}
+{"digest": "6fe141c295f475b5173f7c46b0b7357b3d6d563f5a1d3de77f42a528a12d4bf8", "kind": "readme", "path": "README.md", "payload_sha3": "078735e9553e67eac7a5a2c35cb8c63af790fa2e04c93da8056f14a65e427cf1", "prev": "8ec126fb3939a93204331074546329da40442a7d262fbdebf2edc4c39f15ef76", "seq": 2, "ts": "2026-10-09T05:52:47Z"}
+{"digest": "dbfea366f7cbb54f4829565bb1d4e2dbe30d6f970469a6a5f1047d469143c0ce", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "61f2abece5457884e7574135d15c5e0605dd0a1fe383e820dcc17f7b3ca3837e", "prev": "6fe141c295f475b5173f7c46b0b7357b3d6d563f5a1d3de77f42a528a12d4bf8", "seq": 3, "ts": "2026-10-09T05:52:47Z"}
+{"digest": "dc7cf21cb85c3a9dae325aec9dbbdb87f3b28bba8f4e50b49af5071a10057f8d", "kind": "notice", "path": "NOTICE", "payload_sha3": "16097d531c4668b7c3b429fa1d7a37bf85bba5a71e0a597389e109b810d4e3ad", "prev": "dbfea366f7cbb54f4829565bb1d4e2dbe30d6f970469a6a5f1047d469143c0ce", "seq": 4, "ts": "2026-10-09T05:52:47Z"}
